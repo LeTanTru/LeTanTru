@@ -4,11 +4,18 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=LeTanTru&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LeTanTru&theme=one_dark_pro&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeTanTru&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeTanTru&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=LeTanTru&theme=one_dark_pro&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeTanTru&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</div>
+
 
 [![](https://visitcount.itsvg.in/api?id=LeTanTru&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
 <a href="https://github.com/LeTanTru/web-portfolio-exercise">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeTanTru&repo=web-portfolio-exercise&theme=tokyonight" />
