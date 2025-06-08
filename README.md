@@ -12,31 +12,43 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeTanTru&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
-
 [![](https://visitcount.itsvg.in/api?id=LeTanTru&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
-<a href="https://github.com/LeTanTru/web-portfolio-exercise">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeTanTru&repo=web-portfolio-exercise&theme=tokyonight" />
-</a>
+<h2 align="center">📌 Featured Projects</h2>
 
-<a href="https://github.com/LeTanTru/MERN-Chat-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeTanTru&repo=MERN-Chat-App&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/LeTanTru/react-admin-dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeTanTru&repo=react-admin-dashboard&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/LeTanTru/MERN-Chat-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeTanTru&repo=MERN-Chat-App&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/LeTanTru/Love-Travel-Clone-UI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeTanTru&repo=Love-Travel-Clone-UI&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/LeTanTru/3d-rotation-html-css">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LeTanTru&repo=3d-rotation-html-css&theme=tokyonight" />
-</a>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/LeTanTru/web-portfolio-exercise">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeTanTru&repo=web-portfolio-exercise&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/LeTanTru/MERN-Chat-App">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeTanTru&repo=MERN-Chat-App&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/LeTanTru/react-admin-dashboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeTanTru&repo=react-admin-dashboard&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/LeTanTru/Love-Travel-Clone-UI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeTanTru&repo=Love-Travel-Clone-UI&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/LeTanTru/3d-rotation-html-css">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeTanTru&repo=3d-rotation-html-css&theme=tokyonight" />
+      </a>
+    </td>
+    <td></td>
+  </tr>
+</table>
