@@ -18,6 +18,12 @@
 
 <h2 align="center">📌 Featured Projects</h2>
 
+<style>
+  table, tr, td {
+    border: none;
+  }
+</style>
+
 <table align="center">
   <tr>
     <td>
