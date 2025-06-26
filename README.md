@@ -5,11 +5,11 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeTanTru&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeTanTru&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=LeTanTru&theme=one_dark_pro&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=LeTanTru&theme=dark&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeTanTru&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeTanTru&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=LeTanTru&icon=0&color=0)](https://visitcount.itsvg.in)
