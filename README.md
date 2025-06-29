@@ -49,6 +49,10 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeTanTru&repo=3d-rotation-html-css&theme=tokyonight&border=false" />
       </a>
     </td>
-    <td></td>
+    <td>
+      <a href="https://github.com/LeTanTru/virtualr">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeTanTru&repo=virtualr&theme=tokyonight&border=false" />
+      </a>
+    </td>
   </tr>
 </table>
