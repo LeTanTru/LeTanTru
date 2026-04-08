@@ -4,62 +4,50 @@
 
 # 📊 GitHub Stats:
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LeTanTru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=LeTanTru&theme=dark&hide_border=true&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeTanTru&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" />
-</div>
+</div> -->
 
-[![](https://visitcount.itsvg.in/api?id=LeTanTru&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeTanTru&theme=github_dark" />
+  <br/>
+</div>
 
 ![](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
-<h2 align="center">📌 Featured Projects</h2>
+<div align="center">
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/LeTanTru/MovieHub-Fe">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeTanTru&repo=MovieHub-Fe&theme=tokyonight&border=false" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/LeTanTru/web-portfolio-exercise">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeTanTru&repo=web-portfolio-exercise&theme=tokyonight&border=false" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/LeTanTru/MERN-Chat-App">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeTanTru&repo=MERN-Chat-App&theme=tokyonight&border=false" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/LeTanTru/react-admin-dashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeTanTru&repo=react-admin-dashboard&theme=tokyonight&border=false" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/LeTanTru/Love-Travel-Clone-UI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeTanTru&repo=Love-Travel-Clone-UI&theme=tokyonight&border=false" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/LeTanTru/3d-rotation-html-css">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeTanTru&repo=3d-rotation-html-css&theme=tokyonight&border=false" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/LeTanTru/virtualr">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeTanTru&repo=virtualr&theme=tokyonight&border=false" />
-      </a>
-    </td>
-  </tr>
+<table>
+<tr>
+<td>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeTanTru&theme=github_dark)
+
+</td>
+<td>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeTanTru&theme=github_dark)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeTanTru&theme=github_dark)
+
+</td>
+<td>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeTanTru&theme=github_dark&utcOffset=8)
+
+</td>
+</tr>
 </table>
+
+</div>
