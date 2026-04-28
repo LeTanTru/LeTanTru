@@ -4,14 +4,15 @@
 
 # 📊 GitHub Stats:
 
-<!--
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeTanTru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
+  <img src="https://github-readme-stats.shion.dev/api?username=LeTanTru&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=one_dark_pro&locale=en&hide_border=true" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=LeTanTru&theme=dark&hide_border=true&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=LeTanTru&theme=dark&hide_border=true&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=one_dark_pro&locale=en&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeTanTru&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" />
-</div> -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=LeTanTru&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=one_dark_pro&hide_border=true&order=2" />
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeTanTru&theme=github_dark" />
